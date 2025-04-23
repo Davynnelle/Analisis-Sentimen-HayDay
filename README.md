@@ -199,7 +199,7 @@ print(result)
 ## Results & Conclusion
 
 - **BiLSTM** achieved the best test accuracy (94%) with strong generalization (train 96.1%).
-- **LSTM** reached 96.0% train but overfit (test 93%).
+- **LSTM** reached 96.0% train and balanced for test accuracy (93%).
 - **GRU** balanced performance (test 92%).
 - Lexicon-based labeling provides quick bootstrapping but can mis-handle complex negations.
 
