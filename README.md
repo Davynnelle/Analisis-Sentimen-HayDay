@@ -215,3 +215,4 @@ Overall, the pipeline demonstrates an effective workflow to analyze Indonesian a
 - [TensorFlow Keras](https://www.tensorflow.org/guide/keras)
 - [FastText Indonesian Word Vectors](https://fasttext.cc/) (optional)
 
+📄 Note: This project is based on an final submission from the course "Belajar Pengembangan Machine Learning" on Dicoding Indonesia. The goal was to implement and expand on the core concepts introduced in the course.
